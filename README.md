@@ -12,22 +12,22 @@
 - Go: https://go.dev/doc/install
 
 
-# Instalation
+# Installation
 
 - Clone the repository
-```sh
-git clone https://github.com/johnny00joe/pucpr-go-hello-world.git
-```
+  ```sh
+  git clone https://github.com/johnny00joe/pucpr-go-hello-world.git
+  ```
 
 
 # Execution
 
 - Access the project root folder
-```sh
-cd pucpr-go-hello
-```
+  ```sh
+  cd pucpr-go-hello
+  ```
 
 - Run de program
-```sh
-go run main.go
-```
+  ```sh
+  go run main.go
+  ```
