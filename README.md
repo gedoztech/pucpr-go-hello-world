@@ -4,7 +4,7 @@
 - Subject: DevOps
 
 # Creating the project and publishing to the GitHub
-https://user-images.githubusercontent.com/61328423/226714676-80c4fd98-f6f4-4a67-bccf-d1bb045a073f.mp4
+https://user-images.githubusercontent.com/61328423/226719579-2dd5b662-6cba-44e8-b6ee-c629979cf17d.mp4
 
 
 # Requirements
